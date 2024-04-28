@@ -1,0 +1,67 @@
+"Cleaning Date","Cleaning Type","Reservation #","Res Type",Unit,"Message to Housekeeping","Cleaning Event","Unit Status",Housekeeper,"Default Unit Housekeeper","Inspection Status",Inspector,Rating,"Check-In Date","Check-Out Date","Next Arrival","Next Arrival Type","Night Gap","Time Tracked"
+02/01/24,CO,197308,SC-ABnB-CO,"McCormick Ranch Panorama Vista (3br/2ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Barnett William","No Rating",12/26/23,02/01/24,02/01/24,STA-CO,0,00:00:00
+02/01/24,CO,193570,HAFamOLB-CO,"View at Ventana Canyon (2br/2ba)",,CWI,Occupied,"Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",01/28/24,02/01/24,02/01/24,SC-ABnB-CO,0,00:00:00
+02/01/24,CO,197361,SC-ABnB-CO,"Cereus Vista (3br/3ba)",,CWI,Checked-out/Clean,"Banks Mary","Banks Mary",I,"Percy Michael","No Rating",01/28/24,02/01/24,02/01/24,HAFamOLB-CO,0,00:00:00
+02/01/24,CO,197071,HAFamOLB-CO,"No Place Like Home (2br/2ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Cleaver Robert","No Rating",01/01/24,02/01/24,02/02/24,HAFamOLB-CO,1,00:00:00
+02/01/24,CO,197362,SC-ABnB-CO,"Blue's Retreat (3br/2ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Loschiavo Stephen","No Rating",01/23/24,02/01/24,02/03/24,SC-ABnB-CO,2,00:00:00
+02/01/24,CO,198258,HAFamOLB-CO,"Painted Mountain Golf Retreat (2br/2ba)",,CWI,Occupied,"Moreno Cardenas Jonathan",Jonathan,I,"Cleaver Robert","No Rating",01/28/24,02/01/24,02/03/24,HAFamOLB-CO,2,00:00:00
+02/01/24,CO,195831,SC-ABnB-CO,"At The Plaza (2br/2ba)",,CWI,Occupied,"Marquez Idalia","Marquez Idalia",I,"Barnett William","No Rating",01/02/24,02/01/24,02/05/24,SC-ABnB-CI,4,00:05:55
+02/01/24,CO,197840,OWN-CO,"Tortuga Cove (3br/2ba)",,CWI,Dirty,"Enterprise Green Clean",Clean,I,"Jacobs Bryant","No Rating",01/29/24,02/01/24,02/26/24,HAFamOLB-CO,25,00:00:00
+02/02/24,CO,196181,SC-ABnB-CO,"El Paraiso (4br/2ba)",,CWI,Checked-out/Clean,"Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",01/28/24,02/02/24,02/03/24,SC-ABnB-CO,1,00:00:00
+02/02/24,CO,197887,SC-ABnB-CO,"Regency Condo (2br/2ba)",,CWI,Occupied,"Boswell Noelle","Boswell Noelle",I,"Cleaver Robert","No Rating",01/25/24,02/02/24,02/05/24,HAFamOLB-CO,3,00:00:00
+02/02/24,CO,197032,STA-CO,"Caledonia Dreamin (4br/3.5ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Loschiavo Stephen","No Rating",01/03/24,02/02/24,03/01/24,OWN-CI,28,00:00:00
+02/03/24,CO,196325,SC-ABnB-CO,"Mountain View Retreat (4br/2.5ba)",,CWI,Checked-out/Clean,"Banks Mary","Banks Mary",I,"Percy Michael","No Rating",01/28/24,02/03/24,02/03/24,SC-ABnB-CO,0,00:00:00
+02/03/24,CO,196815,HAFamOLB-CO,"Pinnacle Peak Estate (6br/6ba)","Please turn AC's to 88 degrees before leaving.",CWI,Occupied,"Boswell Noelle","Boswell Noelle",I,"Barnett William","No Rating",01/18/24,02/03/24,02/04/24,HAFamOLB-CO,1,00:00:00
+02/03/24,CO,197439,SC-ABnB-CO,"9th Street Retreat (2br/2ba)",,CWI,Occupied,"Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",01/29/24,02/03/24,02/04/24,SC-ABnB-CO,1,00:00:00
+02/03/24,CO,198501,HomeToGo-CO,"The Orange House (3br/2ba)",,CWI,Occupied,"Estrada Aleheida","Estrada Aleheida",I,"Support Owner","No Rating",01/31/24,02/03/24,02/09/24,SC-ABnB-CO,6,05:19:33
+02/03/24,TUC,MAINT-25607134," ","Red Rock Retreat (1br/1ba)",,CWI,Checked-out/Clean,"Enterprise Green Clean",,I,"Jacobs Bryant","No Rating",01/20/24,01/21/24,02/05/24,SC-ABnB-CO,15,00:00:00
+02/03/24,TUC,MAINT-25607201," ","The Sapphire at McCormick Ranch (2br/2ba)",,CWI,Occupied,"Boswell Noelle","Boswell Noelle",I,"Cleaver Robert","No Rating",01/20/24,01/21/24,02/05/24,OWN-CO,15,00:00:00
+02/04/24,CO,194969,OWN-CO,"Bellas Catalina Oasis (3br/2.5ba)",,CWI,Occupied,"Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",01/27/24,02/04/24,02/04/24,HAFamOLB-CO,0,00:00:00
+02/04/24,CO,198130,SC-ABnB-CO,"Relaxing Casa (4br/2.5ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Barnett William","No Rating",01/31/24,02/04/24,02/07/24,SC-ABnB-CO,3,00:00:00
+02/04/24,CO,195061,HAFamOLB-CO,"Elegance at Desert Ridge (2br/2ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Loschiavo Stephen","No Rating",01/05/24,02/04/24,02/08/24,HAFamOLB-CO,4,00:00:00
+02/04/24,CO,196837,SC-ABnB-CO,"Westgate Oasis (5br/3ba)",,CWI,Occupied,"Moreno Cardenas Jonathan",Jonathan,I,"Loschiavo Stephen","No Rating",01/26/24,02/04/24,02/08/24,SC-ABnB-CO,4,00:00:00
+02/04/24,CO,197812,SC-ABnB-CO,"Fairfield (4br/2ba)",,CWI,Occupied,"Moreno Cardenas Jonathan",Jonathan,I,"Cleaver Robert","No Rating",02/01/24,02/04/24,02/08/24,HAFamOLB-CO,4,00:00:00
+02/04/24,CO,197948,HAFamOLB-CO,"Serenity Chateau (3br/3ba)",,CWI,"Pending Inspection","Trujillo Crystal","Trujillo Crystal",I,"Cimmarusti David","No Rating",02/01/24,02/04/24,02/16/24,HAFamOLB-CO,12,00:00:00
+02/04/24,TUC,MAINT-25618525," ","Tranquil Casa (4br/2ba)",,CWI,Occupied,"Moreno Cardenas Jonathan",Jonathan,I,"Loschiavo Stephen","No Rating",01/21/24,01/22/24,02/06/24,SC-ABnB-CO,15,00:00:00
+02/04/24,CO,196039,OWN-CO,"Enchantment (7br/5ba)","Housekeeping Closet Door Code: 17395  Linen Closet Door Code: 0216",CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Cleaver Robert","No Rating",01/29/24,02/04/24,," ",N/A,00:00:00
+02/05/24,CO,195013,SC-ABnB-CO,"Desert Gold (1br/1ba)",,CWI,Occupied,"Boswell Noelle","Boswell Noelle",I,"Loschiavo Stephen","No Rating",01/28/24,02/05/24,02/05/24,NPG-CO,0,00:00:00
+02/05/24,TUC,198530,SC-ABnB-CO,"Cave Creek Retreat (3br/2ba)",,CWI,Checked-out/Clean,"Marquez Idalia","Marquez Idalia",I,"Support Owner","No Rating",02/06/24,02/13/24,02/13/24,HAFamOLB-CO,0,00:05:40
+02/05/24,CO,197538,SC-ABnB-CO,"Putter's Place (3br/2ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Loschiavo Stephen","No Rating",02/01/24,02/05/24,02/06/24,HAFamOLB-CO,1,00:00:00
+02/05/24,CO,198219,SC-ABnB-CO,"Legacy Desert Oasis (4br/3ba)",,CWI,Occupied,"Boswell Noelle","Estrada Aleheida",I,"Barnett William","No Rating",02/01/24,02/05/24,02/06/24,SC-ABnB-CO,1,00:00:00
+02/05/24,CO,197738,SC-ABnB-CO,"Palm Trees & Warm Breeze (4br/2ba)",,CWI,Occupied,"Moreno Cardenas Jonathan",Jonathan,I,"Support Owner","No Rating",02/02/24,02/05/24,02/06/24,SC-ABnB-CO,1,00:00:00
+02/05/24,CO,197766,HAFamOLB-CO,"AZ Nirvana Townhouse (3br/3.5ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Cleaver Robert","No Rating",02/01/24,02/05/24,02/07/24,HAFamOLB-CO,2,00:00:00
+02/05/24,CO,197497,SC-ABnB-CO,"The Marvelous Maya (1br/1ba)",,CWI,Occupied,"Estrada Aleheida","Estrada Aleheida",I,"Cleaver Robert","No Rating",01/29/24,02/05/24,02/08/24,SC-ABnB-CO,3,02:53:39
+02/05/24,CO,197398,SC-ABnB-CO,"View at Ventana Canyon (2br/2ba)",,CWI,Occupied,"Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",02/01/24,02/05/24,02/08/24,HAFamOLB-CO,3,00:00:00
+02/05/24,CO,197535,SC-ABnB-CO,"Luxury Oasis at Old Town (4br/3ba)","Clean out the built-in espresso machine.",CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Cleaver Robert","No Rating",02/02/24,02/05/24,02/08/24,SC-ABnB-CO,3,00:00:00
+02/05/24,CO,198188,STA-CO,"Uptown Max and Relax (3br/2ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Loschiavo Stephen","No Rating",02/02/24,02/05/24,02/08/24,SC-ABnB-CO,3,00:00:00
+02/05/24,CO,192292,STA-CO,"Mountain Calling (3br/2ba)",,CWI,Checked-out/Clean,"Banks Mary","Banks Mary",I,"Percy Michael","No Rating",01/02/24,02/05/24,02/09/24,HAFamOLB-CO,4,00:00:00
+02/05/24,CO,198497,HAFamOLB-CO,"Chateau Mariposa (2br/2ba)",,CWI,Occupied,"Trujillo Crystal","Trujillo Crystal",I,"Jacobs Bryant","No Rating",01/31/24,02/05/24,02/11/24,HAFamOLB-CO,6,00:00:00
+02/05/24,CO,198334,SC-ABnB-CO,"Red Rock Casita (1br/1ba)",,CWI,Checked-out/Clean,"Enterprise Green Clean",Clean,I,"Jacobs Bryant","No Rating",02/02/24,02/05/24,02/16/24,SC-ABnB-CO,11,00:00:00
+02/05/24,CO,195787,STA-CO,"Cowboy House (3br/2ba)",,CWI,Dirty,"Marquez Idalia","Marquez Idalia",I,"Barnett William","No Rating",09/19/23,02/05/24,," ",N/A,09:27:08
+02/05/24,CO,198294,OWN-CO,"Hillside Grotto (5br/4ba)",,CWI,"Pending Inspection","Enterprise Green Clean",Clean,I,"Cimmarusti David","No Rating",02/02/24,02/05/24,," ",N/A,00:00:00
+02/06/24,CO,196814,HAFamOLB-CO,"Oro Valley Oasis (3br/2ba)",,CWI,Checked-out/Clean,"Chesney Deanna","Banks Mary",I,"Percy Michael","No Rating",01/29/24,02/06/24,02/08/24,HAFamOLB-MDCI,2,00:00:00
+02/06/24,CO,197909,HAFamOLB-CO,"McCormick Ranch Maravilloso (3br/3ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Barnett William","No Rating",01/30/24,02/06/24,02/08/24,SC-ABnB-CO,2,00:00:00
+02/06/24,CO,198556,HAFamOLB-CO,"Troon Estate (4br/2.5ba)",,CWI,Checked-out/Clean,"Marquez Idalia","Marquez Idalia",I,"Support Owner","No Rating",02/03/24,02/06/24,02/08/24,SC-ABnB-CO,2,03:03:44
+02/06/24,CO,197003,HAFamOLB-CO,"Estrella Grand (4br/2ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Loschiavo Stephen","No Rating",01/30/24,02/06/24,02/09/24,HomeToGo-CO,3,00:00:00
+02/06/24,CO,195746,HAFamOLB-CO,"Cereus Vista (3br/3ba)",,CWI,Checked-out/Clean,"Banks Mary","Banks Mary",I,"Percy Michael","No Rating",02/01/24,02/06/24,02/09/24,SC-ABnB-CO,3,00:00:00
+02/06/24,TUC,MAINT-25792764," ","Majestic Citrus Ranch (4br/3ba)",,CWI,Occupied,"Estrada Aleheida","Estrada Aleheida",I,"Support Owner","No Rating",02/03/24,02/04/24,02/07/24,SC-ABnB-CO,3,00:00:00
+02/06/24,TUC,198372,SC-ABnB-CO,"Simply Irresistible (4br/2ba)",,P,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,NI,"Loschiavo Stephen",,02/06/24,03/07/24,03/10/24,SC-ABnB-CI,3,00:00:00
+02/06/24,TUC,MAINT-25792907," ","Villages North Condo (2br/2ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Support Owner","No Rating",02/03/24,02/04/24,02/08/24,HAFamOLB-CO,4,00:00:00
+02/06/24,CO,197273,SC-ABnB-CO,"Copper Spring Retreat (4br/2ba)",,CWI,"Pending Inspection","Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",02/01/24,02/06/24,02/12/24,OWN-CO,6,00:00:00
+02/06/24,CO,198349,OWN-CO,"Oasis At Chapel Rock (3br/4ba)",,CWI,Dirty,"Enterprise Green Clean",Clean,I,"Cimmarusti David","No Rating",02/02/24,02/06/24,02/15/24,SC-ABnB-CO,9,00:00:00
+02/06/24,CO,198218,STA-CO,"Meadow Lark Trail (3br/2ba)",,CWI,Occupied,"Enterprise Green Clean",Clean,I,"Jacobs Bryant","No Rating",01/30/24,02/06/24,02/17/24,HAFamOLB-CO,11,00:00:00
+02/06/24,CO,197664,OWN-CO,"Rockridge Place (3br/2ba)",,CWI,Checked-out/Clean,"Enterprise Green Clean",Clean,I,"Cimmarusti David","No Rating",02/02/24,02/06/24,02/17/24,HAFamOLB-CO,11,00:00:00
+02/06/24,TUC,MAINT-25664198," ","Casa De Sol (5br/3ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Boswell Noelle",I,"Support Owner","No Rating",01/24/24,01/25/24,02/08/24,SC-ABnB-CO,14,00:00:00
+02/07/24,CO,198163,SC-ABnB-CO,"Chandler Oasis (4br/2.5ba)",,CWI,Occupied,"Moreno Cardenas Jonathan",Jonathan,I,"Cleaver Robert","No Rating",01/19/24,02/07/24,02/07/24,SC-ABnB-CO,0,00:00:00
+02/07/24,CO,197528,OWN-CO,"Hillside Tranquility (4br/2ba)",,CWI,Occupied,"Estrada Aleheida","Estrada Aleheida",I,"Barnett William","No Rating",01/30/24,02/07/24,02/07/24,SC-ABnB-CO,0,04:13:01
+02/07/24,CO,197752,HAFamOLB-CO,"Pinnacle Peak Estate (6br/6ba)","Please turn AC's to 88 degrees before leaving.",CWI,Occupied,"Boswell Noelle","Boswell Noelle",I,"Barnett William","No Rating",02/04/24,02/07/24,02/08/24,HAFamOLB-CO,1,00:00:00
+02/07/24,TUC,198577,SC-ABnB-CO,"Majestic Citrus Ranch (4br/3ba)",,CWI,Occupied,"Estrada Aleheida","Estrada Aleheida",I,"Support Owner","No Rating",02/07/24,03/10/24,03/11/24,HAFamOLB-CO,1,00:00:00
+02/07/24,CO,198571,SC-ABnB-CO,"Blue's Retreat (3br/2ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Support Owner","No Rating",02/03/24,02/07/24,02/09/24,HAFamOLB-CO,2,00:00:00
+02/07/24,TUC,196632,SC-ABnB-CO,"Enchantment Springs (7br/5.5ba)","MONTHLY PREVENTIVE HOME INSPECTION ON THE 3RD OF EACH MONTH.    Housekeeping Closet Door Code: 17395  Linen Closet Door Code: 0216",P,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,NI,,,02/07/24,02/12/24,02/19/24,SC-ABnB-CO,7,00:00:00
+02/07/24,CO,195721,HomeToGo-CO,"Quail Run Retreat (3br/2ba)",,CWI,Checked-out/Clean,"Trujillo Crystal","Trujillo Crystal",I,"Jacobs Bryant","No Rating",02/01/24,02/07/24,02/15/24,HAFamOLB-CO,8,00:00:00
+02/07/24,TUC,MAINT-25695099," ","Glendale Charm (4br/3ba)",,CWI,Checked-out/Clean,"Moreno Cardenas Jonathan",Jonathan,I,"Support Owner","No Rating",01/27/24,01/28/24,02/09/24,SC-ABnB-CO,12,00:00:00
+02/08/24,CO,194924,HAFamOLB-CO,"Heart of Tucson (3br/2.5ba)",,CWI,Checked-out/Clean,"Banks Mary","Banks Mary",I,"Percy Michael","No Rating",02/01/24,02/08/24,02/08/24,STA-CO,0,00:00:00
+02/08/24,CO,198406,OWN-CO,"Casa Paraiso (3br/2ba)",,CWI,Checked-out/Clean,"Boswell Noelle","Estrada Aleheida",I,"Support Owner","No Rating",02/05/24,02/08/24,02/08/24,SC-ABnB-CO,0,00:00:00
+02/08/24,CO,198036,STA-CO,"Lynx Landing (3br/2ba)",,CWI,Occupied,"Enterprise Green Clean",Clean,I,"Jacobs Bryant","No Rating",01/14/24,02/08/24,02/09/24,SC-ABnB-CO,1,00:00:00
+02/08/24,CO,197965,SC-ABnB-CO,"El Paraiso (4br/2ba)",,CWI,Checked-out/Clean,"Faller Kimberly","Faller Kimberly",I,"Percy Michael","No Rating",02/03/24,02/08/24,02/10/24,SC-ABnB-CO,2,00:00:00
+02/08/24,TUC,MAINT-25676749," ","Sunset Villa (3br/3ba)",,CWI,Checked-out/Clean,"Trujillo Crystal","Trujillo Crystal",I,"Cimmarusti David","No Rating",01/25/24,01/26/24,02/10/24,SC-ABnB-CI,15,00:00:00
